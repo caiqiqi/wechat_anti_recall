@@ -10,10 +10,10 @@ pip3 install -r requirements.txt
 
 ## Demo
 ### 运行脚本监听正常发送的消息和撤回的消息
-![](img/Screenshot\ 2018-07-04\ 上午3.13.07.png)
+![](img/Screenshot 2018-07-04 上午3.13.07.png){:height="25%" width="25%"}
 ### 手机上相应的截图
-![](img/180704-033918.png)
-![](img/180704-033944.png)
+![](img/180704-033918.png){:height="25%" width="25%"}
+![](img/180704-033944.png){:height="25%" width="25%"}
 
 ## 参考
 https://segmentfault.com/a/1190000015428118
