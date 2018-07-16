@@ -1,2 +1,8 @@
+*.mp3
+*.mp4
+*.png
+*.jpg
+*.gif
+
 itchat.pkl
 __pycache__
